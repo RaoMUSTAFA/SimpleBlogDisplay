@@ -1,0 +1,20 @@
+[
+        {
+    "id": 1,
+    "title": "Introduction to React",
+    "author": "John Doe",
+    "content": "React is a JavaScript library for building user interfaces."
+    },
+    {
+    "id": 2,
+    "title": "Understanding Props and State",
+    "author": "Jane Smith",
+    "content": "Props and state are fundamental concepts in React."
+    },
+    {
+    "id": 3,
+    "title": "React Component Lifecycle",
+    "author": "Tom Clark",
+    "content": "The React component lifecycle allows you to track component updates."
+    }
+]
